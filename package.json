@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrewShewaga/nodejs_practice.git"
+  },
+  "keywords": [
+    "node",
+    "easy",
+    "awsome",
+    "fast",
+    "dev",
+    "stuff"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrewShewaga/nodejs_practice/issues"
+  },
+  "homepage": "https://github.com/DrewShewaga/nodejs_practice#readme"
+}
